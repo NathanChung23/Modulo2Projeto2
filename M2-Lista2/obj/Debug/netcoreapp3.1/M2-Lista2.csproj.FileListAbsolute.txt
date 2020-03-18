@@ -1,0 +1,14 @@
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\M2-Lista2.exe
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\obj\Debug\netcoreapp3.1\M2-Lista2.csprojAssemblyReference.cache
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\obj\Debug\netcoreapp3.1\M2-Lista2.AssemblyInfoInputs.cache
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\obj\Debug\netcoreapp3.1\M2-Lista2.AssemblyInfo.cs
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\settings.json
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\M2-Lista2.deps.json
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\M2-Lista2.runtimeconfig.json
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\M2-Lista2.runtimeconfig.dev.json
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\M2-Lista2.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\M2-Lista2.pdb
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\obj\Debug\netcoreapp3.1\M2-Lista2.csproj.CopyComplete
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\obj\Debug\netcoreapp3.1\M2-Lista2.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Lista2\M2-Lista2\obj\Debug\netcoreapp3.1\M2-Lista2.pdb
